@@ -21,7 +21,6 @@ ribbon:
 spring:
   rabbitmq:
     host: 118.25.47.126
-    port: 15672
     username: lerry
     password: lerry@shanghai
   sleuth:
